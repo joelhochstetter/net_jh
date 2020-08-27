@@ -1,4 +1,4 @@
-# JHNetworks
+# net_jh
 Contains network algorithms written by me or otherwise useful in MATLAB, Python and C . 
 
 These algorithms are written by me unless otherwise stated. 
